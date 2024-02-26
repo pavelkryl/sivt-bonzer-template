@@ -9,5 +9,5 @@ rodič je notifikován o jeho příchodu (e-mail, sms,...).
 
 ### Co nechci řešit?
 - načítání/rozpoznávání karet
--- perzistenci/ukládání karet do DB/souboru
+- perzistenci/ukládání karet do DB/souboru
 
